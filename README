@@ -1,0 +1,12 @@
+# A10 – Cookie Demo
+
+This project creates a simple webpage that:
+- sets a cookie using JavaScript  
+- displays the cookie when the page is reloaded  
+
+Files included:
+- `index.html`
+- `style.css`
+- `script.js`
+
+© A10 – Due: 11/20/2025 – Christopher T.
